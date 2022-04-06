@@ -7,6 +7,7 @@ client.config = require(`./config/bot`);
 client.player = new DisTube(client, { leaveOnStop: false, leaveOnEmpty: false, youtubeDL: false, plugins: [ new YtDlpPlugin() ] });
 
 client.on("ready", async client => {
+  await console.log(`✨゛Connected!`);
   const channel = await client.channels.cache.get(client.config.voice);
   if (channel) {
     setInterval(async () => {
