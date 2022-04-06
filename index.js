@@ -23,4 +23,3 @@ client.on("ready", async client => {
 });
 
 client.login(client.config.token);
-require("http").createServer((_, res) => res.end("Uptime!")).listen(3000)
