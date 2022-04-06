@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.8.0",
+    "@distube/yt-dlp": "^1.0.2",
+    "discord.js": "^13.6.0",
+    "distube": "^3.3.3",
+    "ffmpeg-static": "^4.4.1",
+    "node": "^17.7.2",
+    "npm": "^8.6.0",
+    "opusscript": "^0.0.8"
+  }
+}
