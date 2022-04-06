@@ -8,4 +8,4 @@ Listen to music lofi with your own bot✨
 ### 🌙゛How to use?
 - Fork this [repository](https://github.com/ItzNorii/lofi-bot) and change the [config file](https://github.com/ItzNorii/lofi-bot/blob/main/config/bot.js)
 
-Check out the latest changes to this repository [here](https://github.com/ItzNorii/lofi-bot/commit/main)
+🍥゛Check out the latest changes to this repository [here](https://github.com/ItzNorii/lofi-bot/commit/main)
