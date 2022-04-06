@@ -6,4 +6,4 @@ Listen to music lofi with your own bot✨
 - Requires [Nodejs](https://nodejs.org) version 16.9 or version 16.9 and above
 
 ### 🌙゛How to use?
-- Fork this [repository](https://github.com/ItzNorii/lofi-bot) and change the [config file](`./config/bot.js`)
+- Fork this [repository](https://github.com/ItzNorii/lofi-bot) and change the [config file](`./config/bot`)
