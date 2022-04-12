@@ -10,6 +10,7 @@ Listen to music lofi with your own bot✨
 
 ### 📦゛Packages not auto-installed? Paste this code
 ```js
-npm i discord.js 
+npm i discord.js @discordjs/voice @distube/yt-dlp distube ffmpeg-static
+```
 
 🍥゛Check out the latest changes to this repository [here](https://github.com/ItzNorii/lofi-bot/commits)
