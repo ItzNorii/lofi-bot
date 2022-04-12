@@ -8,7 +8,8 @@ Listen to music lofi with your own bot✨
 <details>
 <strong>🌸゛All Update</strong>
 
-- [ ] #1
+
+- [x] https://github.com/ItzNorii/lofi-bot/issues/1
 
 </details>
 
