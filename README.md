@@ -5,14 +5,6 @@ Listen to music lofi with your own bot✨
 - Allows your bot to play streamed songs from youtube (recommend live streaming video)
 - Requires [Nodejs](https://nodejs.org) version 16.9 or version 16.9 and above
 
-<details>
-<strong>🌸゛All Update</strong>
-
-
-- [x] https://github.com/ItzNorii/lofi-bot/issues/1
-
-</details>
-
 ### 🌙゛How to use?
 - Fork this [repository](https://github.com/ItzNorii/lofi-bot) and change the [config file](https://github.com/ItzNorii/lofi-bot/blob/main/config/bot.js)
 
